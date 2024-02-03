@@ -1,0 +1,267 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+.header {
+    width: 100%;
+    padding: 100px 100px;
+    display: flex;
+    gap: 600px;
+}
+
+.href {
+    display: flex;
+    gap: 50px;
+}
+
+.href>h1 {
+    color: #495567;
+}
+
+.a_href {
+    margin-top: 10px;
+    text-decoration: none;
+    color:
+        #939CAA;
+}
+
+.btn {
+    width: 230px;
+    color: white;
+    height: 40px;
+    background-color: #FCB72B;
+    border: 1px solid transparent;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: .5s;
+}
+
+.btn:hover {
+    color: #FCB72B;
+    border: 1px solid #FCB72B;
+    background-color: #ffffff;
+}
+
+.img_class {
+    width: 1350px;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.img_class>h1 {
+    margin-left: 100px;
+    width: 400px;
+    font-weight: 900;
+    position: absolute;
+    font-size: 45px;
+    z-index: 1;
+    margin-top: -450px;
+    color: white;
+    line-height: 56px;
+    font-weight: 700px;
+}
+
+.liner {
+    width: 200px;
+    height: 10px;
+    background-color: #FCB72B;
+    position: absolute;
+    z-index: 1;
+    margin-top: -180px;
+}
+
+.img_class>p {
+    color: white;
+    font-weight: 900;
+    margin-top: -230px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 250px;
+    width: 400px;
+}
+
+.img {
+    margin-left: -530px;
+    width: 350px;
+    margin-top: 385px;
+    position: absolute;
+    z-index: 1;
+}
+
+.bbb {
+    width: 100px;
+    margin-left: 250px;
+    margin-top: -89px;
+    position: absolute;
+    z-index: 1;
+}
+
+.leniye {
+    width: 974px;
+    height: 10px;
+    background-color: #E5ECF4;
+    margin-left: 50px;
+    margin-top: 100px;
+    /* background-color: blue; */
+}
+
+.img_group {
+    display: flex;
+    gap: 430px;
+    margin-top: -22px;
+    margin-left: 50px;
+}
+
+.iim {
+    width: 50px;
+
+}
+
+.group_one {
+    display: flex;
+    gap: 290px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.svg>h3 {
+    color: #939CAA;
+    font-weight: 900;
+}
+
+.svg>p {
+    font-size: 13px;
+    width: 200px;
+    color: #939CAA;
+}
+
+.footer_one {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.footer_one>h1 {
+    font-size: 35px;
+    width: 455px;
+    color: #495567;
+    font-weight: 900;
+}
+
+.footer_one>p {
+    width: 445px;
+    margin-top: 10px;
+    color: #495567;
+
+    font-size: 12px;
+    font-weight: 900;
+
+}
+.ll{
+    /* margin-left: 600px; */
+    margin-top:20px;
+}
+.iii{
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+.oop{
+    width: 400px;
+    margin-left: 800px;
+    margin-top: -120px;
+    position: absolute;
+}
+.aaa{
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -220px;
+}
+.last{
+    margin-left: 800px;
+    margin-top: -240px;
+}
+.last>h1{
+    font-size: 35px;
+    width: 455px;
+    font-weight: 900;
+    color: #495567;
+
+}
+.last>p{
+    width: 445px;
+    margin-top: 10px;
+    color: #495567;
+
+    font-size: 12px;
+    font-weight: 900;
+}
+.iiii{
+    width: 300px;
+    margin-left: 900px;
+    position: absolute;
+    margin-top: -240px;
+}
+
+.oxiri{
+    width: 1220px;
+    background-color: #495567;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.iiaa{
+    width: 800px;
+    margin-left: 550px;
+    margin-top: 250px;
+}
+.oxiri>h1{
+    font-weight: 900;
+    margin-top: -250px;
+    margin-left: 100px;
+    color: #ffffff;
+
+}
+.btt{
+    margin-left: 800px;
+    margin-top: -70px;
+    position: absolute;
+}
+.engoxiri{
+    width: 1220px;
+    height: 50px;
+    background-color: #2e3744;
+    margin-left: 50px;
+}
+.href_one{
+    display: flex;
+    gap: 100px;
+    margin-left: 30px;
+}
+.iii{
+    margin-left:790px;
+}
+.href_one>h1{
+    color: white;
+    margin-top: 7px;
+}
+.href_one>a{
+    color:#626e7e;
+    margin-top: 18px;
+
+}
+.icon{
+    cursor: pointer;
+    margin-left: 1000px;
+    margin-top: -20px;
+}
